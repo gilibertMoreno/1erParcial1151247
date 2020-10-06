@@ -1,0 +1,16 @@
+.navbar-header img{
+    height: 30px;
+}
+picture img{
+    width: 100%;
+}
+
+li{
+    position: relative;
+    color: cornsilk;
+    align-self: flex-end;
+    
+}
+.navbar{
+    background-color: blueviolet;
+}
