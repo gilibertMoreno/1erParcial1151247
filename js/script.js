@@ -1,2 +1,2 @@
-let botonAjax=document.querySelector('#peticionAjax');
-botonAjax.addEventlistener("click",loadDoc);
+let boton=document.querySelector('#peticionAjax');
+boton.addEventListener('click',loadDocs);
